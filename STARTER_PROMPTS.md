@@ -29,3 +29,12 @@
 
 ## Story vs truth diagnostic
 > For every weakness you find, tag it as one of: STORYTELLING, EVIDENCE, PRODUCT, BUSINESS MODEL, STRATEGY, MARKET, TEAM. Do not recommend a narrative fix for a non-narrative problem.
+
+
+## 11. 30-second attention gate
+
+> Ignore the full deck for a moment. Run only the 30-second attention filter. Give me the 10-word version, one-sentence explanation, 30-second spoken opening, three-chapter founder introduction, repeat-back sentence, and the exact first question a good investor should naturally ask. If the company is not repeatable after one hearing, keep simplifying.
+
+## 12. Phase-aware fundraising pack
+
+> Build three versions of the same narrative without changing the underlying story: (1) a first-call Attention version, (2) a partner/diligence Detail version, and (3) an IC/Closing version an investor champion can repeat without the founder present. Show what information is added at each stage and what should be deliberately omitted earlier.
