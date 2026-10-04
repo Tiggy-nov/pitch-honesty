@@ -1,6 +1,6 @@
 ---
 name: investor-narrative-architect
-version: 1.0.0
+version: 1.1.0
 description: Three-pass venture storytelling skill for investment truth, narrative architecture, and investor-room simulation.
 ---
 
@@ -47,6 +47,183 @@ For every important claim ask:
 3. What proves it?
 4. What would a skeptical investor say?
 5. What belief should the investor form?
+
+# FUNDRAISING IS A SEQUENCE OF NARRATIVE JOBS
+
+Do not tell the same version of the story at every stage of a fundraise.
+
+Use three narrative modes:
+
+## Phase A — ATTENTION
+
+Typical contexts:
+- cold introduction,
+- first 30 seconds,
+- first call,
+- first two or three slides,
+- short founder introduction.
+
+Objective:
+
+> **Earn the right to continue.**
+
+The first interaction is a filter, not a compressed diligence session.
+
+The listener should quickly understand:
+1. What the company does.
+2. Who it is for.
+3. Why the problem or market shift matters.
+4. Why this founder/company is worth another question.
+
+Do not spend the opening setting up a long preamble.
+
+### The 30-second attention gate
+Before approving a pitch, test the opening independently from the rest of the deck.
+
+Within roughly 30 seconds, the investor should be able to answer:
+- What does the company actually do?
+- Who cares?
+- What is the interesting or non-obvious part?
+- Why should I keep listening?
+
+If not, the pitch fails the attention gate even if the remaining deck is excellent.
+
+### The repeat-back test
+After hearing the opening once, a smart non-specialist should be able to explain the company back in their own words without asking a clarifying question.
+
+If they cannot, simplify again.
+
+This is a comprehension test, not an intelligence test.
+
+### The useful-question test
+Every opening sentence should do at least one of two things:
+1. reduce confusion, or
+2. create a high-quality next question.
+
+If a sentence does neither, remove it.
+
+The objective is not to answer every question. The objective is to create the **right** questions.
+
+### Founder introduction — three high-signal chapters
+Do not narrate the founder's entire biography.
+
+Choose at most three facts or chapters that establish the right to win.
+
+A useful pattern is:
+
+> **We did X. We learned Y. That is why we are building Z.**
+
+Or:
+
+> **I built X. My co-founder led Y. We saw Z firsthand.**
+
+Use only facts that are actually relevant to the investment case. Then stop. Let the investor decide where to dig.
+
+The best founder introduction creates credibility and curiosity without becoming a résumé recital.
+
+## Phase B — DETAIL
+
+Typical contexts:
+- second/third meetings,
+- product sessions,
+- commercial diligence,
+- technical diligence,
+- partner meetings.
+
+Objective:
+
+> **Turn curiosity into belief.**
+
+The story kernel should remain the same, but the information density increases.
+
+Resolve the causal chain:
+Problem → structural change → product delta → customer behaviour → commercial wedge → repeatability → expansion → defensibility → venture-scale outcome.
+
+At this stage, unanswered questions become liabilities. Use evidence, customer examples, cohort or revenue data, architecture, economics, and explicit assumptions.
+
+Do not introduce an entirely different company story just because the meeting is more detailed.
+
+## Phase C — CLOSING / INTERNAL ADVOCACY
+
+Typical contexts:
+- final partner meeting,
+- investment committee,
+- reference synthesis,
+- term-sheet decision,
+- an investor champion explaining the company without the founder present.
+
+Objective:
+
+> **Make the investment case easy to defend and hard to forget.**
+
+Compress the case into:
+- one memorable company sentence,
+- one non-obvious insight,
+- one strongest proof point,
+- one reason the company can become very large,
+- one reason this team can win,
+- the central risk,
+- why the decision matters now.
+
+The investor champion must be able to carry the story into a room the founder never enters.
+
+## One story kernel, three densities
+Do not create three contradictory stories.
+
+Create one strategic narrative expressed at three levels of resolution:
+- **30 seconds:** Attention.
+- **10–20 minutes:** Understanding and excitement.
+- **Diligence / IC:** Proof and defensibility.
+
+If the core story changes materially between these versions, the narrative is not yet stable.
+
+# CLARITY IS ALSO A FOUNDER SIGNAL
+
+Investors are evaluating the founder while evaluating the company.
+
+The pitch should indirectly demonstrate:
+- command of the problem,
+- intellectual honesty,
+- speed of thought,
+- prioritisation,
+- ambition,
+- realism,
+- coachability,
+- ability to recruit and sell.
+
+Do not claim these qualities. Demonstrate them through clear answers, relevant evidence, acknowledgement of uncertainty, sharp prioritisation, and thoughtful reactions to difficult questions.
+
+Making a complex idea simple is evidence of understanding. Making it vague but impressive-sounding is not.
+
+# LIVE PITCH VS SEND-AHEAD DECK
+
+Do not assume one deck format serves every context equally well.
+
+## Live presentation
+Optimise for founder-audience connection, visual reinforcement, pacing, controlled reveal, and minimal on-slide prose. The slide should support the speaker rather than replace them.
+
+## Send-ahead / standalone deck
+Optimise for self-contained comprehension, explicit evidence, clear labels, and enough context to survive without the founder.
+
+The narrative kernel should remain identical, but the standalone deck may require more explanatory information.
+
+Do not confuse a good handout with a good live presentation.
+
+# MISSION AND THE MOUNTAIN
+
+The pitch should connect the current wedge to a mission large enough to justify venture capital.
+
+Write a short, sharp mission that expresses the scale of ambition without becoming vague.
+
+Then frame the company journey as:
+
+> **Mission / summit → strategic path → base camps / milestones**
+
+The mission should explain what important future the company is trying to create. The milestones should make the ambition credible.
+
+Avoid jumping directly from today's small wedge to a giant future without showing the route.
+
+This gives the narrative both long-term ambition and near-term plausibility.
 
 # PASS 1 — INVESTMENT TRUTH
 
@@ -150,6 +327,21 @@ Imagine a top Series A investor evaluating the company 18–24 months later. Ide
 Ask:
 > Can the current round plausibly finance the company to those milestones?
 
+## Stage-aware weighting
+
+Do not evaluate every financing stage with the same evidence standard.
+
+### Pre-seed
+Weight most heavily founder-market insight, clarity of problem, quality of non-obvious insight, speed, technical/product credibility, customer learning, conviction grounded in lived evidence, and ability to attract people and capital. Do not pretend a five-year model is proof.
+
+### Seed
+Increase the weight on customer behaviour, paid usage, wedge clarity, deployment, early retention/expansion, repeatability, and initial GTM evidence.
+
+### Series A
+Require evidence that a machine is forming: repeatable acquisition, quality of revenue, retention, expansion, scalable deployment, economics, leadership depth, and a credible path to large-scale growth.
+
+The narrative should mature as evidence matures.
+
 ## PASS 1 output
 Produce:
 1. Investment thesis — maximum five sentences.
@@ -195,7 +387,35 @@ Each slide should answer one important question and make the next question inevi
 Useful rhythm:
 > **Answer → implication → new question → answer**
 
-## Investor belief ladder
+## Attention-layer construction
+
+Before building the full deck, produce an **Attention Layer**.
+
+It must contain:
+
+## 10-word version
+The company in approximately ten words.
+
+## One-sentence version
+A literal, jargon-free explanation.
+
+## 30-second opening
+A spoken opening designed to pass the attention gate.
+
+## Founder three-chapter intro
+Three relevant facts maximum.
+
+## Repeat-back sentence
+What a smart listener should say when asked:
+
+> "What does this company do?"
+
+## Desired first question
+The best question you want the investor to ask next.
+
+If the desired first question is not naturally produced by the opening, rewrite the opening.
+
+# Investor belief ladder
 Build the company-specific sequence. A common ladder is:
 1. The problem matters.
 2. Existing approaches are structurally inadequate.
@@ -315,6 +535,20 @@ Produce:
 # PASS 3 — INVESTOR ROOM SIMULATION
 
 Assume the founder has presented and left the room. Optimise for predicting investor behaviour, not encouragement.
+
+## Investor 0 — 30-second attention filter
+
+Simulate the first 30 seconds of a real first call.
+
+Then answer only:
+- Do I understand what the company does?
+- Can I repeat it?
+- What word or phrase confused me?
+- What is the one thing that made me lean in?
+- What question do I want to ask next?
+- Would I continue with genuine curiosity, or am I already being polite?
+
+If the investor cannot accurately repeat the company, stop and rebuild the opening before running the deeper simulation.
 
 ## Investor 1 — skeptical seed investor
 Test uniqueness, pain, why now, founder quality, product vs consulting, early evidence, 100x potential, and fatal risks.
@@ -459,6 +693,9 @@ Then return to Pass 2 and rebuild.
 Produce:
 - Company in 10 words
 - Company in one sentence
+- 30-second attention opening
+- Founder three-chapter introduction
+- Desired first investor question
 - Company in 30 seconds
 - Company in two minutes
 - Strategic narrative
@@ -479,6 +716,9 @@ Produce:
 # Final readiness test
 
 Before calling a pitch ready, ask:
+- Does the opening pass the 30-second attention gate?
+- Can a smart non-specialist repeat the company after hearing it once?
+- Does the opening create the right next question?
 - Can a sophisticated investor understand the company after five slides?
 - Does the deck contain a genuine insight?
 - Is there tension?
