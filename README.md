@@ -42,6 +42,17 @@ For agent environments that support file-based skills, keep `SKILL.md` as the ca
 
 Upload `SKILL.md` as project knowledge or paste `SYSTEM_PROMPT.md` into the system/instruction layer. The framework does not depend on a specific model.
 
+### Phase-aware storytelling
+
+Version 1.1 adds a fundraising-stage layer inspired by Reece Chowdhry's October 2026 essay on what VCs mean by storytelling.
+
+The same strategic narrative is now expressed at three densities:
+- **Attention** — first 30 seconds / first call: earn the right to continue.
+- **Detail** — partner meetings and diligence: turn curiosity into evidence-backed belief.
+- **Closing** — IC and final decision: make the case easy for an internal champion to retell and defend.
+
+The skill now includes a 30-second attention gate, repeat-back test, useful-question test, three-chapter founder introduction, live-vs-send-ahead deck distinction, and a mission/mountain framework.
+
 ## Recommended workflow
 
 **New company**
@@ -70,4 +81,4 @@ It distinguishes facts, founder claims, model inference, investor assumptions, a
 
 ## Version
 
-Current version: **1.0.0**
+Current version: **1.1.0**
