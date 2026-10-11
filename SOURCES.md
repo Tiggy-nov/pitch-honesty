@@ -17,7 +17,15 @@ Key principles incorporated:
 - a founder introduction should be compressed to a few high-signal chapters;
 - the first phase is about earning the right to continue, not explaining everything.
 
-Only Part 1 was publicly available when v1.1.0 was prepared. The skill does not attribute unpublished Part 2/3 specifics to Reece.
+**What VCs really mean when they say "be good at storytelling" — Part 2 of 3**  
+LinkedIn, October 2026  
+https://www.linkedin.com/pulse/what-vcs-really-mean-when-say-good-storytelling-part-reece-chowdhry-hxnue
+
+Verified principle incorporated:
+- Part 2 moves the fundraising narrative from **attention to belief**.
+
+Research note:
+- At the time of the v1.2.0 update, the full LinkedIn article body was not reliably retrievable through the public web interface used for research. The framework therefore incorporates only the author's publicly verifiable description of Part 2 and combines it with the skill's existing evidence, diligence, and investor-belief architecture. Detailed sub-frameworks are not attributed to Reece unless independently verifiable.
 
 **A Q&A with Concept Ventures Founding Partner Reece Chowdhry**  
 Early Early Stage, 9 June 2026  
