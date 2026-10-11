@@ -1,6 +1,6 @@
 ---
 name: investor-narrative-architect
-version: 1.1.0
+version: 1.2.0
 description: Three-pass venture storytelling skill for investment truth, narrative architecture, and investor-room simulation.
 ---
 
@@ -121,7 +121,7 @@ Use only facts that are actually relevant to the investment case. Then stop. Let
 
 The best founder introduction creates credibility and curiosity without becoming a résumé recital.
 
-## Phase B — DETAIL
+## Phase B — DETAIL / BELIEF
 
 Typical contexts:
 - second/third meetings,
@@ -132,16 +132,124 @@ Typical contexts:
 
 Objective:
 
-> **Turn curiosity into belief.**
+> **Turn attention into belief.**
 
-The story kernel should remain the same, but the information density increases.
+Attention means the investor is interested enough to continue. Belief means the investor can now explain **why the company is likely to work**, not merely why it is interesting.
+
+The story kernel should remain the same, but the information density and evidentiary burden increase.
 
 Resolve the causal chain:
+
 Problem → structural change → product delta → customer behaviour → commercial wedge → repeatability → expansion → defensibility → venture-scale outcome.
 
 At this stage, unanswered questions become liabilities. Use evidence, customer examples, cohort or revenue data, architecture, economics, and explicit assumptions.
 
 Do not introduce an entirely different company story just because the meeting is more detailed.
+
+### The Belief Engine
+
+For every major investor belief, build four layers:
+
+1. **Claim** — what you want the investor to believe.
+2. **Mechanism** — why that claim should be true.
+3. **Evidence** — what has already happened that supports it.
+4. **Implication** — what becomes possible if the claim continues to hold.
+
+Example:
+
+> **Claim:** Customers can adopt this product quickly.  
+> **Mechanism:** It sits above existing systems rather than replacing them.  
+> **Evidence:** Three deployments went live in under four weeks.  
+> **Implication:** Enterprise growth does not require multi-year transformation projects.
+
+A claim without mechanism feels promotional.
+
+A mechanism without evidence feels theoretical.
+
+Evidence without implication feels like a metric dump.
+
+Belief comes from the chain holding together.
+
+### Proof density
+
+Do not wait until a generic "Traction" slide to provide evidence.
+
+Place proof close to the claim it supports.
+
+When the deck says:
+- the problem is severe → show customer behaviour or economic consequence;
+- the product is materially better → show before/after evidence;
+- customers care → show payment, usage, conversion, retention, or expansion;
+- the wedge is repeatable → show repeated customer patterns;
+- the company can expand → show actual or strongly evidenced expansion behaviour;
+- the moat is forming → show what is accumulating or becoming harder to replicate.
+
+The investor should rarely have to hold an unsupported claim in memory for several slides.
+
+### Evidence hierarchy
+
+Classify proof by strength:
+
+**Level 0 — Assertion**  
+Founder says it is true.
+
+**Level 1 — Anecdote**  
+One customer or isolated example supports it.
+
+**Level 2 — Behaviour**  
+Customers invest time, integrate, use, return, invite colleagues, or change workflow.
+
+**Level 3 — Economic commitment**  
+Customers pay, renew, expand, prepay, or sign meaningful contracts.
+
+**Level 4 — Repeatability**  
+The same pattern appears across multiple customers, cohorts, or sales cycles.
+
+**Level 5 — Compounding proof**  
+Retention, expansion, efficiency, data, distribution, or product advantage strengthens as the company scales.
+
+Use the strongest available proof. Do not present Level 0 as if it were Level 4.
+
+### Belief gap audit
+
+After every major section, ask:
+
+> **What would a skeptical investor still need to believe before they could underwrite this claim?**
+
+Then label the gap:
+
+- missing explanation,
+- missing mechanism,
+- missing evidence,
+- contradictory evidence,
+- too-small sample,
+- unproven extrapolation,
+- genuine business risk.
+
+Do not repair a genuine business risk with narrative.
+
+### Coherence under questioning
+
+A strong story should become **more credible** as the investor asks questions.
+
+Test whether:
+- the detailed answer supports the simple opening;
+- the product architecture supports the claimed customer outcome;
+- customer evidence supports the claimed urgency;
+- GTM evidence supports the claimed wedge;
+- expansion evidence supports the market story;
+- technical advantage supports the moat story;
+- financing needs support the milestone plan.
+
+If detailed questioning causes the simple story to collapse, the original story was positioning rather than truth.
+
+### Belief compression
+
+At the end of Phase B, the investor should be able to state:
+
+> **I believe [company] can win because [mechanism], and the strongest evidence is [proof].**
+
+If that sentence cannot be written credibly, the company has attention but not yet belief.
 
 ## Phase C — CLOSING / INTERNAL ADVOCACY
 
