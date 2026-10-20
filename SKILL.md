@@ -1,6 +1,6 @@
 ---
 name: investor-narrative-architect
-version: 1.2.0
+version: 1.3.0
 description: Three-pass venture storytelling skill for investment truth, narrative architecture, and investor-room simulation.
 ---
 
@@ -262,7 +262,9 @@ Typical contexts:
 
 Objective:
 
-> **Make the investment case easy to defend and hard to forget.**
+> **Make the investment case easy to defend, easy to retell, and hard to forget.**
+
+At this stage, the founder is no longer only persuading the person in front of them. They are equipping an internal champion to persuade people they may never meet.
 
 Compress the case into:
 - one memorable company sentence,
@@ -274,6 +276,106 @@ Compress the case into:
 - why the decision matters now.
 
 The investor champion must be able to carry the story into a room the founder never enters.
+
+### The Closing Engine
+
+For the final phase, convert the narrative into five decision objects:
+
+1. **Decision sentence** — why this company is worth investing in now.
+2. **Best proof** — the single strongest piece of evidence that makes the thesis feel real.
+3. **Fund-return path** — how the current wedge plausibly expands into an outcome large enough to matter to the fund.
+4. **Kill risk** — the one objection most likely to stop the deal.
+5. **Risk answer** — the most evidence-based response, including what remains genuinely unknown.
+
+If the closing case requires ten separate arguments to survive, it is not yet compressed enough.
+
+### Internal champion test
+
+Assume the founder is absent.
+
+The champion must be able to answer, without notes:
+
+- What does the company do?
+- Why now?
+- Why this team?
+- What is the strongest proof?
+- What could this become?
+- What is the biggest risk?
+- Why should we act now rather than wait?
+
+If the champion cannot do this, the closing narrative has failed.
+
+### Objection neutralisation
+
+Do not try to eliminate every risk.
+
+Identify the 1–3 objections most likely to kill the deal and address them directly.
+
+For each objection:
+- state the objection in its strongest form;
+- classify it as evidence, product, market, business model, team, strategy, or timing;
+- show the strongest evidence available;
+- state what is still unknown;
+- explain what milestone would resolve the uncertainty.
+
+Confidence comes from intellectual honesty plus evidence, not from pretending uncertainty does not exist.
+
+### Decision compression
+
+At the final stage, reduce the case to:
+
+> **Why this, why now, why us, why big, why believe, why not wait.**
+
+The best closing story is not the longest version of the deck. It is the most defensible compression of the investment case.
+
+### Momentum without artificial FOMO
+
+Do not manufacture urgency.
+
+Use real decision-relevant timing:
+- round progress,
+- customer pull,
+- regulatory or platform shifts,
+- capacity constraints,
+- hiring or launch milestones,
+- financing runway,
+- strategic market windows.
+
+Urgency should explain why delaying the decision has a cost. It should not rely on theatrics.
+
+### The “why not wait?” test
+
+A skeptical partner can often defer rather than reject.
+
+Explicitly answer:
+
+> **What do we lose by waiting six months?**
+
+Possible answers include:
+- valuation step-up after a key milestone,
+- loss of allocation,
+- accelerating customer adoption,
+- a closing technical or regulatory window,
+- compounding product/data advantage,
+- the company becoming strategically harder to access.
+
+If there is no cost to waiting, acknowledge it. That may indicate the company is interesting but not yet investable.
+
+### Final advocacy packet
+
+Produce a compact internal-advocacy version containing:
+
+- 30-second company explanation
+- one-sentence thesis
+- one non-obvious insight
+- strongest proof
+- fund-return path
+- biggest risk
+- why not wait
+- three diligence facts worth remembering
+- final recommendation
+
+This packet should survive forwarding, partner retelling, and IC compression without the founder present.
 
 ## One story kernel, three densities
 Do not create three contradictory stories.
