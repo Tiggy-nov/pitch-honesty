@@ -1,5 +1,20 @@
 # Changelog
 
+## 1.3.0 — 2026-10-20
+
+Closing / internal-advocacy update based on the completed Reece Chowdhry storytelling series.
+
+- Added Part 3 source provenance.
+- Expanded Phase C into a full **Closing Engine**.
+- Added Decision Sentence, Best Proof, Fund-Return Path, Kill Risk, and Risk Answer.
+- Added the **Internal Champion Test** for founder-absent partner advocacy.
+- Added structured **Objection Neutralisation**.
+- Added **Decision Compression**: why this, why now, why us, why big, why believe, why not wait.
+- Added real-momentum guidance without artificial FOMO.
+- Added the **Why Not Wait?** test.
+- Added a compact **Final Advocacy Packet** for partner/IC retelling.
+- Kept unverifiable Part 3 details clearly separated from framework synthesis.
+
 ## 1.2.0 — 2026-10-11
 
 Attention-to-belief update based on Reece Chowdhry's Part 2.
