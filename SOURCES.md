@@ -27,6 +27,17 @@ Verified principle incorporated:
 Research note:
 - At the time of the v1.2.0 update, the full LinkedIn article body was not reliably retrievable through the public web interface used for research. The framework therefore incorporates only the author's publicly verifiable description of Part 2 and combines it with the skill's existing evidence, diligence, and investor-belief architecture. Detailed sub-frameworks are not attributed to Reece unless independently verifiable.
 
+**What VCs really mean when they say "be good at storytelling" — Part 3 of 3**  
+LinkedIn, October 2026  
+https://www.linkedin.com/pulse/what-vcs-really-mean-when-say-good-storytelling-part-reece-chowdhry-hetce/
+
+Verified series context incorporated:
+- Part 1 explicitly defines fundraising storytelling as three different games: **Attention, Detail, Closing**.
+- This Part 3 URL completes the series and is treated as the Closing-phase source.
+
+Research note:
+- At the time of the v1.3.0 update, the public web index did not reliably expose the full Part 3 article body. The skill therefore does not attribute granular Part 3 sub-frameworks to Reece unless they can be verified from the article. The expanded Closing Engine is a synthesis built on the verified series structure plus established venture decision and IC dynamics.
+
 **A Q&A with Concept Ventures Founding Partner Reece Chowdhry**  
 Early Early Stage, 9 June 2026  
 https://earlyearlystage.substack.com/p/a-q-and-a-with-concept-ventures-founding
